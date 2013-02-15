@@ -1,4 +1,4 @@
 # buffalo-run issues
 
-- <kbd>[Open a New Issue](/elia/buffalo-run/issues/new)</kbd>
-- <kbd>[Browse Issues](/elia/buffalo-run/issues)</kbd>
+- <kbd>[Open a New Issue](https://github.com/elia/buffalo-run/issues/new)</kbd>
+- <kbd>[Browse Issues](https://github.com/elia/buffalo-run/issues)</kbd>
